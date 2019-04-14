@@ -24,31 +24,31 @@
 
 用户可以通过点击界面上“双人”按钮，在弹出的提示框中点击确定，即可在界面上的棋盘区域点击进行落子。在游戏开始后，如果有一方胜出，系统会弹出提示框提醒用户胜负情况，并在棋盘上绘制一条黑线，提示用户在五子相连的具体位置。
 
-![img](assets\clip_image002.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image002.jpg?raw=true)
 
-![img](assets\clip_image004.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image004.jpg?raw=true)
 
-![img](assets\clip_image006.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image006.jpg?raw=true)
 
 ### 人机模式功能
 
 用户可以通过点击界面上“人机”按钮，在弹出的提示框中点击确定，即可在界面上的棋盘区域点击进行落子。在游戏开始后，系统会根据棋盘中已有的棋子，模拟人的思维落子。如果有一方胜出，系统会弹出提示框提醒用户胜负情况，并在棋盘上绘制一条黑线，提示用户在五子相连的具体位置。
 
-![img](assets\clip_image008.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image008.jpg?raw=true)
 
-![img](assets\clip_image010.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image010.jpg?raw=true)
 
-![img](assets\clip_image012.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image012.jpg?raw=true)
 
-![img](assets\clip_image014.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image014.jpg?raw=true)
 
 ### 联机模式功能
 
 用户可以通过点击界面上“联机”按钮，在弹出的提示框中点击确定，在之后弹出的窗口中可以选择“创建游戏”和“加入游戏”， “创建游戏”总要先于“加入游戏”出现，当一方创建游戏，另一方即可加入游戏。即可在界面上的棋盘区域点击进行落子，在游戏开始后。如果有一方胜出，系统会弹出提示框提醒用户胜负情况，并在棋盘上绘制一条黑线，提示用户在五子相连的具体位置。
 
-![img](assets\clip_image016.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image016.jpg?raw=true)
 
-![img](assets\clip_image018.jpg)
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image018.jpg?raw=true)
 
 ### 悔棋功能
 
@@ -70,8 +70,4 @@
 
 用户打开软件后，无论当前处于什么模式，除了点击界面的右上方退出软件，本软件还为用户提供了另一种选择，点击“菜单”，在弹出的对话框中，点击“退出游戏”，选择后，即可退出游戏。
 
-![img](file:///C:/Users/Anish/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
-
-
-
- 
+![clip_image002.jpg](https://github.com/Grootzz/Gobang/blob/master/assets/clip_image020.jpg?raw=true)
